@@ -214,6 +214,21 @@
       "afkTime": -1,
       "afkReason": "",
       "limit": 100
+    },
+    "18596876994@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
+    },
+    "6283867149253@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
+    },
+    "6287802572596@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
     }
   },
   "chats": {
@@ -432,6 +447,22 @@
     "6281367253629@s.whatsapp.net": {
       "mute": false,
       "antilink": false
+    },
+    "18596876994@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false
+    },
+    "6283867149253@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false
+    },
+    "6287802572596@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false
+    },
+    "120363042333276718@g.us": {
+      "mute": false,
+      "antilink": false
     }
   },
   "database": {},
@@ -443,6 +474,14 @@
     "6285791762177@s.whatsapp.net": {
       "status": 0,
       "autobio": false,
+      "templateImage": true,
+      "templateVideo": false,
+      "templateGif": false,
+      "templateMsg": false
+    },
+    "18596876994@s.whatsapp.net": {
+      "status": 0,
+      "autobio": true,
       "templateImage": true,
       "templateVideo": false,
       "templateGif": false,

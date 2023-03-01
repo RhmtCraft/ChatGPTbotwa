@@ -10,10 +10,10 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 //==============================\
 autoread = true
-global.footer = 'lenz'//ganti
-global.pulsa = "628xxx"//ganti
-global.gopay = "628xxx"//ganti
-global.dana = "628xxx"//ganti
+global.footer = 'AI'//ganti
+global.pulsa = "6283867149253"//ganti
+global.gopay = "6283867149253"//ganti
+global.dana = "6283867149253"//ganti
 global.paypal = "---" // biarin aja kalau gaada
 global.shopay = "---" // biarin aja kalau gaada
 global.saweria = "---" // biarin aja kalau gaada
@@ -23,42 +23,42 @@ global.bri = "---" // biarin aja kalau gaada
 global.bankjatim = "---" // biarin aja kalau gaada
 global.jago = "---" // biarin aja kalau gaada
 global.neobank = "---" // biarin aja kalau gaada
-global.packname = 'Lenttobs'//ganti
-global.footer = '©Maslent'//ganti
-global.ovo = "628xxx"//ganti
-global.ownerlen = "Maslent/Lenttobs"//Ubah
-global.owner = ['628xxxxx'] //ubh nomor owner hp
-global.ownername = "Lenttobs" //ubah
-global.ytname = "YT: lenttobs"//ubah
-global.socialm = "IG: vlntncptr"//ubah
-global.location = "Indonesia, Jawatimur, Lumajang"//ubah
-global.ownernomer = "628xxxxx"//ubah nomorhp owner
-global.premium = ['628xxxx']//ubah nomor hp premium
-global.nomorcs = '628xxxxxxx'
-global.botname = 'BotWhangsafV13' //ubah
-global.linkz = "Link Gc"//ubah
-global.websitex = "yt mu"//ubah
+global.packname = 'OPENAI'//ganti
+global.footer = '©xell'//ganti
+global.ovo = "6283867149253"//ganti
+global.ownerlen = "Xell/rhmt"//Ubah
+global.owner = ['6283867149253'] //ubh nomor owner hp
+global.ownername = "Xell" //ubah
+global.ytname = "YT: RhmtEditz"//ubah
+global.socialm = "IG: rhmt.editz"//ubah
+global.location = "Indonesia, JawaTengah, Klaten"//ubah
+global.ownernomer = "6283867149253"//ubah nomorhp owner
+global.premium = ['6283867149253']//ubah nomor hp premium
+global.nomorcs = '6283867149253'
+global.botname = 'XellBot AI' //ubah
+global.linkz = "https://chat.whatsapp.com/KQZNBa0kpoh2VUjoq0S7EQ"//ubah
+global.websitex = "https://youtube.com/@RhmtEditz"//ubah
 global.botscript = '-'
-global.themeemoji = "😿"//ubah
-global.packname = "Sticker By"//ubah
-global.author = "Made by"//ubah
-global.wm = "Lenttobs"//ubah
+global.themeemoji = "💪🏿"//ubah
+global.packname = " "//ubah
+global.author = " "//ubah
+global.wm = " "//ubah
 global.sessionName = 'session'
 global.prefa = ['','!','.','#','&']
 global.sp = ''
 global.mess = {
     success: 'Piye?!', //ubah...
-    admin: 'This feature could be used by admins only!',
-    botAdmin: 'Bot Must Be Admin First!',
-    premime: 'Premium Special Features If You Want to Register Type Rent',
-    owner: 'This feature could be used by owner only',
-    group: 'Features Used Only For Groups!',
-    private: 'Features Used Only For Private Chat!',
-    bot: 'This feature could be used by bot only',
-    wait: 'In process...',
-    linkm: 'Where is the link?',
+    admin: 'Fitur ini hanya dapat digunakan oleh admin!',
+    botAdmin: 'Bot Harus Jadi Admin Dulu!',
+    premime: 'Fitur Khusus Premium Jika Ingin Mendaftar Jenis Sewa',
+    owner: 'Fitur ini hanya dapat digunakan oleh owner',
+    group: 'Fitur Hanya Digunakan Untuk Grup!',
+    private: 'Fitur yang Digunakan Hanya Untuk Obrolan Pribadi!',
+    bot: 'Fitur ini hanya dapat digunakan oleh bot',
+    wait: 'Dalam proses...',
+    linkm: 'Di mana tautannya?',
     endLimit: 'Upss Limit Kamu sudah habis..Tunggu Waktu menunjukan Pukul 12:00 Limit Anda otomatis akan Di reset!!!',
-    nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
+    nsfw: 'Astagfirullah....👀',
 }
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
